@@ -7,10 +7,19 @@
   min-width: 1170px;
 }
 
+.page--inner .page__header {
+  background-color: #ffffff;
+  color: #353a5a;
+}
+
 .page__content {
   margin-top: -275px; /* наслоение основного содержимого страницы на шапку */
 }
 
 .page__aside {
   margin-bottom: 120px;
+}
+
+.page--inner .page__content {
+  margin-top: 0;
 }
