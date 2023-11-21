@@ -1,5 +1,6 @@
-@import "general/variables.scss";
-@import "general/visually-hidden.scss";
-@import "general/fonts.scss";
-@import "general/button";
-@import "general/container.scss";
+@import "helpers/visually-hidden.scss";
+@import "blocks/logo.scss";
+@import "blocks/site-navigation.scss";
+@import "blocks/main-navigation.scss";
+@import "blocks/page-header.scss";
+@import "blocks/social.scss";
